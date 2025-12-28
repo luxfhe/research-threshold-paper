@@ -1,0 +1,10 @@
+Completed all iterations. job: 4 ctxt_per_job: 100, n: 16, k: 64, m: 1, b: 8, mac_s: 64, lwe_a: 1024, microseconds: 864563
+Completed all iterations. job: 5 ctxt_per_job: 100, n: 16, k: 64, m: 1, b: 8, mac_s: 64, lwe_a: 1024, microseconds: 867381
+Completed all iterations. job: 6 ctxt_per_job: 100, n: 16, k: 64, m: 1, b: 8, mac_s: 64, lwe_a: 1024, microseconds: 878464
+Completed all iterations. job: 2 ctxt_per_job: 100, n: 16, k: 64, m: 1, b: 8, mac_s: 64, lwe_a: 1024, microseconds: 863760
+Completed all iterations. job: 1 ctxt_per_job: 100, n: 16, k: 64, m: 1, b: 8, mac_s: 64, lwe_a: 1024, microseconds: 944304
+Completed all iterations. job: 7 ctxt_per_job: 100, n: 16, k: 64, m: 1, b: 8, mac_s: 64, lwe_a: 1024, microseconds: 968007
+Completed all iterations. job: 0 ctxt_per_job: 100, n: 16, k: 64, m: 1, b: 8, mac_s: 64, lwe_a: 1024, microseconds: 955561
+Completed all iterations. job: 3 ctxt_per_job: 100, n: 16, k: 64, m: 1, b: 8, mac_s: 64, lwe_a: 1024, microseconds: 963937
+Completed all iterations. job: 9 ctxt_per_job: 100, n: 16, k: 64, m: 1, b: 8, mac_s: 64, lwe_a: 1024, microseconds: 1023863
+Completed all iterations. job: 8 ctxt_per_job: 100, n: 16, k: 64, m: 1, b: 8, mac_s: 64, lwe_a: 1024, microseconds: 1026204
